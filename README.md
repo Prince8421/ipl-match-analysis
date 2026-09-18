@@ -23,3 +23,7 @@ player, and match-level insights.
   ## Dashboard Preview
   [<img width="1190" height="670" alt="Screenshot 2026-09-19 001435" src="https://github.com/user-attachments/assets/0b8b2fca-4042-47a9-be1a-c74279b9593e" />
 
+  ## Project Architecture
+  <img width="1167" height="657" alt="Screenshot 2026-09-19 005130" src="https://github.com/user-attachments/assets/e80314ff-5e2c-4604-b79e-7d677782bdbd" />
+
+
